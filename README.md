@@ -1,7 +1,9 @@
-### Hi there 👋
-### 我叫黄圆圆
-<!--
-**Yayam-hub/Yayam-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi  👋
+
+###欢迎来到yayam的主页
+-我叫黄圆圆
+-来自广东省揭阳市，是个地道的潮汕人
+
 
 Here are some ideas to get you started:
 
